@@ -1,0 +1,71 @@
+.lista_efeitos {
+    color: rgb(6, 7, 8);
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    list-style-type: none;
+    padding-left: 60%;
+    text-align:right;
+    margin: 2%;
+}
+
+.primeira {
+    font-size: 10px;
+    list-style-type:  none;
+    display: inline-block;
+    margin: 0%;
+
+    
+}
+.lista_efeitos:hover {
+ color: rgb(137, 149, 204);
+}
+
+.imagem {
+    width: 50%;
+    margin: 0%;
+}
+
+.Principal {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 8%;
+}
+
+.texto {
+    font-size: 59px;
+    padding-left:  35%;
+    font-family: Arial;
+    
+   
+} 
+
+.paragrafo {
+    font-size: 59px;
+    font-weight: 700;
+    font-family: Arial;
+    
+}
+
+.lista_efeitos:hover {
+   color: rgb(166, 169, 182);
+}
+
+.botao {
+    margin: 40%;
+    color: white;
+    background-color: rgb(117, 171, 241);
+    text-decoration: none;
+    padding: 2%;
+    border-radius: 8px;
+    font-size: 28px;
+    
+}
+
+.botao:hover {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+
